@@ -1,0 +1,35 @@
+.appointment-double {
+    position: relative;
+}
+
+.appointment-double .logo1-sec {
+    position: relative;
+}
+
+.appointment-double .logo2-sec {
+    position: absolute;
+    right: -35px;
+    bottom: -78px;
+}
+
+.appointment-double .logo1-sec img {
+    border-radius: 15px;
+    height: 300px;
+}
+
+.appointment-double .logo2-sec img {
+    border-radius: 15px;
+    height: 249px;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 610px) {
+    .appointment-double .logo2-sec img {
+        display: none;
+    }
+}

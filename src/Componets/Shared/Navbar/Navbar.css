@@ -1,0 +1,22 @@
+.navbar-nav li a {
+    font-weight: 700;
+    font-size: 15px;
+    display: block;
+    margin-right: 30px;
+    color: rgb(12, 12, 12) !important;
+    text-transform: uppercase;
+}
+
+.customMenu .nav-item .active {
+    color: white !important;
+    background: #f70776;
+    border-radius: 5px;
+}
+
+
+.login-profile hr {
+    margin: 0;
+    padding: 0;
+}
+
+

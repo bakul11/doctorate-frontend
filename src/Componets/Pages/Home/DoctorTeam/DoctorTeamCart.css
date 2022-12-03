@@ -1,0 +1,46 @@
+.doctor-item {
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s ease-in;
+    border-radius: 8px;
+}
+
+.doc-detail {
+    visibility: hidden;
+    transition: all 0.5s ease-in;
+    width: 263px;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.doctor-item:hover .doc-detail {
+    visibility: visible;
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.doc-social {
+    visibility: hidden;
+    transition: all 0.5s ease-in;
+    width: 263px;
+    margin: auto;
+    left: 0;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.doctor-item:hover .doc-social {
+    visibility: visible;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+}
