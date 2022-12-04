@@ -32,10 +32,10 @@ const HomeAppointment = () => {
                         <div className="homeApp-left">
                             <div className="appointment-double text-center mb-5">
                                 <div className='logo1-sec'>
-                                    <img src="https://cdn.hswstatic.com/gif/becoming-doctor.jpg" alt="logo" className='img-fluid' />
+                                    <img src="https://i.ibb.co/n60P0vp/becoming-doctor.jpg" alt="logo" className='img-fluid' />
                                 </div>
                                 <div className='logo2-sec'>
-                                    <img src="https://nationaltoday.com/wp-content/uploads/2020/03/Doctors-1.jpg" alt="logo" className='img-fluid'/>
+                                    <img src="https://i.ibb.co/WHSbYQT/Doctors-1.jpg" alt="logo" className='img-fluid' />
                                 </div>
                             </div>
                         </div>
