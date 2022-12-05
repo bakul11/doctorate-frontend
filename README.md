@@ -1,5 +1,5 @@
-## Project Name : Academic Education
-### Link Site Link :  [www.bongo.com](https://bongomedia.netlify.app/)
+## Project Name : Dortorate Health
+### Link Site Link :  [www.doctorate.com](https://dortoratehealth.netlify.app/)
 
 ### Technology Used 
 -------------------------
